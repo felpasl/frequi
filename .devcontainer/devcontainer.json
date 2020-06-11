@@ -9,7 +9,8 @@
 		"emmet.includeLanguages": {
 			"vue": "html",
 			"vue-html": "html"
-		}
+		},
+		"files.eol": "\n"
 	},
 	"extensions": [
 		"octref.vetur",
